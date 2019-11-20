@@ -7,3 +7,4 @@ for (i; i < 1000; i++) {
     }
     console.log(sum);
 }
+//commit test
