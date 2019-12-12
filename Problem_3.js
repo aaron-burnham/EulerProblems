@@ -24,4 +24,3 @@ function findLargePrime(num) {
     }
     console.log(largestPrime);
 }
-
